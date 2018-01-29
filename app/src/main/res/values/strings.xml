@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Diabetes Calculator</string>
+    <string name="meal_prompt">Choose a meal</string>
+    <string name="about_credits">Design and layout by Dan Chester\n\nDeveloped by the Dan Chester Development Team\n\nVersion 0.1</string>
+    <string-array name="meal_times">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Supper</item>
+
+    </string-array>
+
+</resources>
